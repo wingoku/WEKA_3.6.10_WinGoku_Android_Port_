@@ -1,0 +1,1 @@
+This is a port of WEKA 3.6.10 for Android. This port can be used for developing machine learning based apps.
